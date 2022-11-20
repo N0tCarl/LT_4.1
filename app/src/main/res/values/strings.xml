@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LT_4.1</string>
+    <string name="compute">Compute</string>
+    <string name="number">Number</string>
+    <string name="percent_symbol">%</string>
+    <string name="percent">Percent %</string>
+    <string name="instructions">Find a percentage or work out the percentage given numbers and percent values.</string>
+    <string name="txt_close" />
+    <string name="txt_compute_result" />
+</resources>
